@@ -16,7 +16,8 @@ I am seeking **PhD admission in Computer Science / Cybersecurity / AI Systems**.
 - Attack Detection in **5G/6G Networks** 
 - **Symbolic AI** and **Neuro-Symbolic Systems**  
 - **Intrusion Detection Systems (IDS)**  
-- **NFV** and Cloud-Native Network Security 
+- **NFV** and Cloud-Native Network Security
+- Vehicular Network
 - Explainable AI for Cybersecurity  
 - Applied Cryptography  
 
@@ -25,4 +26,5 @@ I am seeking **PhD admission in Computer Science / Cybersecurity / AI Systems**.
 - Email: {{ site.author.email1 }} / {{ site.author.email2 }}
 - Phone: {{ site.author.phone }}
 - Website: {{ site.url }}
+
 
