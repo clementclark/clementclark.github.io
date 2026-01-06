@@ -6,8 +6,7 @@ subtitle: Academic publications and manuscripts
 ---
 
 ## Peer-Reviewed Publications
-
-*To be updated.*
+None yet (early-stage PhD applicant).
 
 ## Theses
 
