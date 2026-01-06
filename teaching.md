@@ -2,8 +2,12 @@
 layout: default
 title: Teaching & Supervision
 h1: Teaching & Supervision
-subtitle: University of Kinshasa and partner institutions
+subtitle: University of Kinshasa
 ---
+
+## Teaching Philosophy
+
+My teaching approach emphasizes **strong theoretical foundations**, **hands-on experimentation**, and **security-by-design principles**. I aim to bridge **computer science theory** with **real-world systems**, particularly in cybersecurity and networked infrastructures.
 
 ## Undergraduate Courses
 
@@ -11,8 +15,7 @@ subtitle: University of Kinshasa and partner institutions
 - Operating Systems  
 - Network Architecture  
 - Computer Security  
-- Real-Time Systems  
-- Algorithms and Data Structures
+- Algorithms and Data Structures  
 
 ## Graduate (Master’s) Courses
 
@@ -24,5 +27,6 @@ subtitle: University of Kinshasa and partner institutions
 
 ## Supervision
 
-Supervision of undergraduate research projects and theses (multi-year).
-
+- Supervision of undergraduate and master’s projects  
+- Topics include cybersecurity, intrusion detection, distributed systems, and applied AI  
+- Emphasis on **methodology**, **reproducibility**, and **scientific writing**
