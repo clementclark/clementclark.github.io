@@ -6,10 +6,10 @@ subtitle: Researcher & TA – Computer Science · University of Kinshasa · Kins
 ---
 
 ## Bio
-
-I am a research-oriented computer scientist affiliated with the **University of Kinshasa**, with strong expertise in **network security**, **AI-based attack detection**, and **secure distributed systems**. My focus combines **machine learning** with **symbolic reasoning** approaches for trustworthy cybersecurity.
-
-I am seeking **PhD admission in Computer Science / Cybersecurity / AI Systems**.
+## Bio
+I am a research-oriented computer scientist affiliated with the **University of Kinshasa**, with a strong background in **network security**, **distributed systems**, and **AI-based attack detection**.
+My research focuses on the application of **symbolic and neuro-symbolic AI** techniques to **cybersecurity problems in complex systems**, including **5G/6G networks**, **NFV-based architectures**, and **cloud-native infrastructures**.
+I am currently seeking **PhD admission in Computer Science**, with a focus on **Cybersecurity**, **Artificial Intelligence**, and **Trustworthy Systems**, particularly within **CNRS / INRIA / European research laboratories**.
 
 ## Research Interests
 
@@ -26,6 +26,7 @@ I am seeking **PhD admission in Computer Science / Cybersecurity / AI Systems**.
 - Email: {{ site.author.email1 }} / {{ site.author.email2 }}
 - Phone: {{ 243814444826 }}
 - Website: {{ site.url }}
+
 
 
 
