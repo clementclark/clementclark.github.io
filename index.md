@@ -2,7 +2,8 @@
 layout: default
 title: Home
 h1: Clement Amisi Fataki
-subtitle: Researcher & TA – Computer Science · University of Kinshasa · Kinshasa, DR Congo
+subtitle: Researcher & Teaching Assistant – Computer Science (PhD Applicant)
+
 ---
 
 ## Bio
@@ -25,6 +26,7 @@ I am currently seeking **PhD admission in Computer Science**, with a focus on **
 - Email: {{ site.author.email1 }} / {{ site.author.email2 }}
 - Phone: {{ 243814444826 }}
 - Website: {{ site.url }}
+
 
 
 
