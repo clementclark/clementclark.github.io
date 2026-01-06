@@ -9,15 +9,15 @@ subtitle: Education, academic/industry experience, and skills
 
 - **M.Eng. in Computer Technology (2019)** — Beijing Jiaotong University, China  
   Thesis: *Privacy-Preserving Authentication for Accessing Vehicular Fog Services*  
-  Supervisor: Prof. Dr. Xiaolin Chang :contentReference[oaicite:10]{index=10}  
+  Supervisor: Prof. Dr. Xiaolin Chang  
 
 - **B.Sc. in Computer Science (2012)** — University of Kinshasa, DR Congo  
-  Thesis: *Connectivity and Security of Wireless Networks* :contentReference[oaicite:11]{index=11}  
+  Thesis: *Connectivity and Security of Wireless Networks*  
 
 ## Academic Experience
 
 - **Senior Teaching Assistant, University of Kinshasa (2013–Present)**  
-  Teaching and lab supervision; course development (network architecture, operating systems, computer architecture, applied cryptography, cybersecurity, network security); supervision of undergraduate projects and theses. :contentReference[oaicite:12]{index=12}  
+  Teaching and lab supervision; course development (network architecture, operating systems, computer architecture, applied cryptography, cybersecurity, network security); supervision of undergraduate projects and theses. 
 
 - **Teaching Assistant, Protestant University in the Congo (2021–2022)**  
 - **Teaching Assistant, Institute of Applied Engineering and Technology (2020–202?)**  
@@ -45,4 +45,5 @@ French (Fluent), English (Fluent), Chinese (Intermediate)
 ## Download
 
 [Download my CV (PDF)](assets/CV.pdf)
+
 
