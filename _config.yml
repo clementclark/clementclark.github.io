@@ -1,0 +1,22 @@
+title: Clement Amisi Fataki
+description: PhD Applicant in Computer Science — AI for Cybersecurity | Symbolic & Hybrid AI | Secure Next-Generation Networks
+url: "https://clementclark.github.io"
+markdown: kramdown
+theme: null
+plugins: []
+
+author:
+  name: Clement Amisi Fataki
+  role: "PhD Applicant – Computer Science"
+  tagline: "AI for Cybersecurity | Symbolic & Hybrid AI | Secure Next-Generation Networks"
+  affiliation: "University of Kinshasa"
+  location: "Kinshasa, DR Congo"
+  email1: "clement.amisi@unikin.ac.cd"
+  email2: "clement.fataki@gmail.com"
+  phone: "+243 814 444 826"
+
+social:
+  linkedin: ""     # add your LinkedIn URL if you want
+  github: "https://github.com/clementclark"
+  scholar: ""
+  researchgate: ""
